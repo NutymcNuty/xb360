@@ -1,4 +1,4 @@
 # xb360
 xbmc4xbox theme based off of team blackbolts godly theme
 
-A godly theme reimagined for xlink kai
+Deprecated please look at https://github.com/mcKFAQ/xb360 for future use.
